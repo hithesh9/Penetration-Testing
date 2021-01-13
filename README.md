@@ -1,2 +1,3 @@
 # Penetration-Testing
-Open the PDF file to know about how the pentest is carried out.
+1) PenTest Report on Hack the Box Machines
+2) Web Cache Poisoning using Burpsuite
